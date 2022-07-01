@@ -1,0 +1,28 @@
+.text-tittle{
+    color: #00004c;
+    font-weight: bold;
+}
+
+.search{
+    margin-top: -32px;
+    box-shadow: 0 1px 3px rgba(23,23,23,0.24);
+}
+
+.section_bg{
+    background: #f9fafc;
+}
+
+.icon_color{
+    color: #c3c3c3;
+    font-size: 20px;
+}
+
+.card_Modify{
+    margin-bottom: 10px;
+    padding-bottom: 50px;
+}
+
+.img_table{
+    margin-top: -35px;
+    margin-left: 15px;
+}
