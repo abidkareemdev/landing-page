@@ -2,5 +2,4 @@
 
 <ul>
 <li>Search bar</li>
-<li>Services</li>
 </ul>
