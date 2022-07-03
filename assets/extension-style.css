@@ -30,3 +30,11 @@
 .Edit-rows{
     justify-content: center;
 }
+
+.text-nav-right{
+    border-right: none;
+    box-shadow: 0px 5px #6fe9bd;
+    border-top: none;
+    border-left: none;
+    padding-bottom: 0px;
+}
